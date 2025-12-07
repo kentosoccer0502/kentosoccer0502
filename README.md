@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm zizi4n5</h1>
-<h3 align="center">Engineer / Web Developer / AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Kento</h1>
+<h3 align="center">Software Engineer / Web Developer / AI Application Developer</h3>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kentosccer0502&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentosoccer0502&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zizi4n5&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kentosoccer0502&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## ⏱ Coding Activity (Wakatime)
 <!-- Wakatime API を使っている場合のみ表示されます -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zizi4n5&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kentosoccer0502&theme=tokyonight" />
 </p>
 
 ---
@@ -65,8 +65,8 @@
 ## 🔗 Links
 <p align="center">
   <a href="https://zizi4n5.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" /></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://qiita.com/"><img src="https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white" /></a>
+  <a href="https://x.com/webappkeneng"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/kento-natsuyama"><img src="https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white" /></a>
 </p>
 
 ---

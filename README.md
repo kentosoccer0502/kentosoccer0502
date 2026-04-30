@@ -3,9 +3,7 @@
 <h2 align="left">Software Engineer, Web Developer, AI Application Developer</h3>
 
 <p align="left">
-  <a href="https://zizi4n5.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" /></a>
   <a href="https://x.com/webappkeneng"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kento-natsuyama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
